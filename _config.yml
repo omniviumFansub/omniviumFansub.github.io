@@ -7,12 +7,7 @@ url: "https://omniviumfansub.github.io" # for test: remove string 'http://victor
 # User settings
 username: Omnivium
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username:
-github_username:
-gplus_username:
-linkedin_public_url:
-disqus_username:
+facebook_username: 
 profile_picture: https://pbs.twimg.com/profile_images/755720093074493440/pNwnpPqR_400x400.jpg
 
 # Build settings
