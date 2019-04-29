@@ -6,7 +6,7 @@ url: "https://omniviumfansub.github.io" # for test: remove string 'http://victor
 
 # User settings
 username: Omnivium
-user_title: Lorem Ipsum - FrontEnd
+user_title: Omnivium
 facebook_username: OmniviumFansub
 profile_picture: https://pbs.twimg.com/profile_images/755720093074493440/pNwnpPqR_400x400.jpg
 
@@ -28,12 +28,9 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: post
-      url: /posts
-      key_trigger: 2
     - title: serie
       url: /series
-      key_trigger: 3
+      key_trigger: 2
     - title: cerca
       url: ""
       key_trigger: s #WARNING: search only works with "s"
