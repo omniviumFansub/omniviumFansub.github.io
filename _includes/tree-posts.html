@@ -1,13 +1,22 @@
 <div class="tree-posts">
-
-    <h3>*Posts*</h3>
+    <style type="text/css">
+        .tree-posts h3::before {
+            content: "";
+            width: 75px;
+            height: 4px;
+            position: absolute;
+            bottom: 0px;
+            background-color: #c06a64;
+        }
+    </style>
+    <div align="center"><h3>Release</h3></div>
 
     {% for post in site.posts %}
 
     <article role="article" class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
         <div class="content">
             <a title="Open the post" href="{{ post.url | prepend: site.baseurl }}">
-                <h2 class="post-title" itemprop="name">{{ post.title | replace: ' ','-'}}.md</h2>
+                <h2 class="post-title" itemprop="name">{{ post.title}}</h2>
             </a>
         </div>
     </article>
