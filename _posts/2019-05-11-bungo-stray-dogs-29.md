@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bungo Stray Dogs - 29'
-image: '/assets/img/bungo-stray-dogs-29.jpg'
+image: '/assets/img/bungo-stray-dogs-29.png'
 date: 2019-05-11 15:10:50
 categories:
 - Bungo Stray Dogs
