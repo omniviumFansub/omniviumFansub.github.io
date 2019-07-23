@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Araburu Kisetsu no Otome-domo yo. - 02'
-image: '/assets/img/araburu-kisetsu-no-otome-domo-yo.-02.jpg'
+image: '/assets/img/araburu-kisetsu-no-otome-domo-yo.-02.png'
 date: 2019-07-23 12:18:42
 categories:
 - Araburu Kisetsu no Otome-domo yo.
