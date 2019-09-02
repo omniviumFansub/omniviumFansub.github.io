@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Araburu Kisetsu no Otome-domo yo - 09'
-image: '/assets/img/araburu-kisetsu-no-otome-domo-yo-09.png'
+title: 'Araburu Kisetsu no Otome-domo yo. - 09'
+image: '/assets/img/araburu-kisetsu-no-otome-domo-yo.-09.png'
 date: 2019-09-02 23:16:45
 categories:
-- Araburu Kisetsu no Otome-domo yo
+- Araburu Kisetsu no Otome-domo yo.
 ---
 
 <img src='{{ page.image }}' alt='' width='640' height='360'>
