@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Araburu Kisetsu no Otome-domo yo - Pack TV'
-image: '/assets/img/araburu-kisetsu-no-otome-domo-yo-Pack TV.png'
+image: '/assets/img/araburu-kisetsu-no-otome-domo-yo-Pack-TV.png'
 date: 2019-10-10 22:16:55
 categories:
 - Araburu Kisetsu no Otome-domo yo
