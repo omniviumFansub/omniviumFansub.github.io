@@ -12,7 +12,7 @@ categories:
 Sono anni e anni che aspettavo un'adattamento animato di questa serie di Hitoma Iruma (autore di Denpa Onna to Seishun Otoko) ed avevo quasi perso le speranze, fino a quando si è cominciato a muovere qualcosa riguardo alla serie e finalmente è stata annunciata.<br>
 Prima release da un bel po' di tempo per via di impegni personali.<br>
 
-<b>Staff</b>:
+<b>Staff</b>:<br>
 draker: traduzione<br>
 Tadao Yokoshima: typesetting, check<br>
 Hell: encode, check<br>
