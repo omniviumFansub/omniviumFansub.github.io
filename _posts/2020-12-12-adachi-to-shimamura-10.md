@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adachi to Shimamura - 10'
-image: '/assets/img/adachi-to-shimamura-10.jpg'
+image: '/assets/img/adachi-to-shimamura-10.png'
 date: 2020-12-12 18:33:53
 categories:
 - Adachi to Shimamura
